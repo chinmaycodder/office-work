@@ -1,0 +1,2 @@
+class we donate from .left or right in css
+wehere id we donate it from # for css 

@@ -1,0 +1,12 @@
+compelted for day 1 
+
+tp dp list for day 1
+
+basic of html done 
+list links images and tables going on 
+embedding media iframes and graphic 
+and api's
+
+todays task to do  1st forms images layout semantic tags 
+2nd embedding media iframes and graphics 
+3 apis in front end 

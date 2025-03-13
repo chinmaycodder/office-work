@@ -1,0 +1,23 @@
+<!-- here we can see mothin or animation in image by using code 
+ The <animate> SVG element is used to animate an attribute or property of an element over time. It’s normally inserted inside the element which we want to animate.
+    
+    <animate attributeName="" values="" dur="" repeatCount="" /> this will be an syntex-->
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>svg</title>
+    </head>
+    <body>
+        <div>
+            <svg viewBox="0 0 50 50">
+                <rect width="10" height="10" fill="green">
+                    <animate attributeName="rx" values="0;20;0"
+                        dur="0.1s" repeatCount="10" />
+                </rect>
+            </svg>
+        </div>
+    </body>
+    </html>
